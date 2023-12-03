@@ -16,7 +16,7 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Desenvolvedor Front-End", "Designer", "Freelancer"],
+         strings:["Desenvolvedor Python", "", "Freelancer"],
          typeSpeed:100,
          backSpeed:95,
          loop:true
