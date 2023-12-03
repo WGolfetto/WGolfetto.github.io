@@ -22,7 +22,7 @@ $(document).ready(function(){
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Desenvolvedor Front-End"],
+        strings:["Desenvolvedor Python"],
         typeSpeed:100,
         backSpeed:95,
         loop:true
